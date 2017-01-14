@@ -1,6 +1,6 @@
 # actores-y-datos
 
-This Project is based in the [Angular Seed project](https://github.com/angular/angular-seed) and all commands from there work in this project too.
+This Project is based in the [Angular Seed project](https://github.com/angular/angular-seed) and all commands from there work in this project too..
 
 
 
